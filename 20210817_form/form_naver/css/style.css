@@ -49,8 +49,8 @@ div#content .field .icon.email{background-position: 0 -47px;}
 div#content .field .icon.pass{background-position: 0 -466px;}
 div#content .field .icon.pass2{background-position: 0 -515px;}
 
-p.radio>input:nth-child(1):checked ~ label.male{background: skyblue !important;}
-p.radio>input:nth-child(2):checked ~ label.female{background: skyblue !important;}
+p.radio>input:nth-child(1):checked ~ label.male{background: #1fbc02 !important;}
+p.radio>input:nth-child(2):checked ~ label.female{background: #1fbc02 !important;}
 
 div#content .field.radio{height: 50px;}
 div#content .field.radio input{position: absolute;left: 20px;top: 20px;}
