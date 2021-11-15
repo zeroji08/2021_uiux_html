@@ -7,16 +7,16 @@ body{font-family: 'Noto Sans KR', sans-serif;}
     font-size: 3rem;
     
 }
-.section.page1{background-image: url(../images/bg_img01.jpg);}
+.section.page1{background-image: url(../images/page01_bg.png);}
 .section.page2{background: #F5F5F5;}
-.section.page3{background: green;}
+.section.page3{background: #fff;}
 .section.page4{background: skyblue;}
 
 .section .view{width: 100%;height: 100%;position: relative;}
 
 /* 메뉴바 */
 #navTop{
-    _background:#fff;
+    background:#fff;
     position: fixed; z-index: 1;
     width: 100%;
     display: flex;padding-left: 20px;
